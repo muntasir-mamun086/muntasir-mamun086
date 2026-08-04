@@ -11,7 +11,7 @@
 ###
 
 <h1 align="center">Hi👋, I'm Muntasir Mamun</h1>
-<h3 align="center">Passionate about Electrical Power Systems, Smart Grid, and sustainable energy technologies.</h3>
+<h3 align="center">Passionate about Electrical Power Systems, Smart Grid and Sustainable Energy Technologies.</h3>
 
 - 🔭 I’m currently working on *MATLAB/Simulink*
 
