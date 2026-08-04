@@ -72,7 +72,7 @@
 
   <!-- Automation Studio -->
   <a href="https://www.famictech.com/" target="_blank" rel="noreferrer">
-    <img src="assets/Icons/autostudio-icon.svg" alt="Automation Studio" width="40" height="40"/>
+    <img src="assets/Icons/autostudio-icon.png" alt="Automation Studio" width="40" height="40"/>
   </a>
 
   <!-- Multisim -->
@@ -91,7 +91,7 @@
   </a>
 
   <a href="https://www.autodesk.com/br/products/eagle/overview.acessado" target="_blank" rel="noreferrer">
-    <img src="assets/Icons/eagle-icon.png" alt="EAGLE" width="40" height="40"/>
+    <img src="assets/Icons/eagle-icon.webp" alt="EAGLE" width="40" height="40"/>
   </a>
 </p>
 
