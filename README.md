@@ -28,8 +28,8 @@
 <a href="https://fb.com/muntasirmamun086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muntasirmamun086" height="30" width="40" /></a>
 <a href="https://instagram.com/mamun_muntasir086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mamun_muntasir086" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@muntasirmamun-zf9ko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@MuntasirMamun-zf9ko" height="30" width="40" /></a>
-<a href="https://scholar.google.com/citations?hl=en&user=PcgTSJkAAAAJ" target="_blank" rel="noreferrer"><img src="assets/Icons/google-scholar.png" alt="Google Scholar" width="40" height="40"/></a>
-<a href="https://www.researchgate.net/profile/Muntasir-Mamun-11?ev=hdr_xprf" target="_blank" rel="noreferrer"><img src="assets/Icons/ResearchGate_icon_SVG.svg.webp" alt="ResearchGate" width="40" height="40"/></a>
+<a href="https://scholar.google.com/citations?hl=en&user=PcgTSJkAAAAJ" target="_blank" rel="noreferrer"><img align="center" src="assets/Icons/google-scholar.png" alt="Google Scholar" width="30" height="40"/></a>
+<a href="https://www.researchgate.net/profile/Muntasir-Mamun-11?ev=hdr_xprf" target="_blank" rel="noreferrer"><img align="center" src="assets/Icons/ResearchGate_icon_SVG.svg.webp" alt="ResearchGate" width="40" height="30"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
