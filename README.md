@@ -72,7 +72,7 @@
 
   <!-- Automation Studio -->
   <a href="https://www.famictech.com/" target="_blank" rel="noreferrer">
-    <img src="assets/Icons/automation-studio-icon.svg" alt="Automation Studio" width="40" height="40"/>
+    <img src="assets/Icons/autostudio-icon.svg" alt="Automation Studio" width="40" height="40"/>
   </a>
 
   <!-- Multisim -->
