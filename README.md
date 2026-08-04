@@ -4,11 +4,13 @@
 
 ###
 
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://cdn.pixabay.com/animation/2025/08/06/06/37/06-37-33-94_512.gif"  />
+</div>
+
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=muntasir-mamun086.muntasir-mamun086&"  />
 </div>
-
-###
 
 <h1 align="center">Hi👋, I'm Muntasir Mamun</h1>
 <h3 align="center">Passionate about Electrical Power Systems, Smart Grid and Sustainable Energy Technologies.</h3>
@@ -94,12 +96,6 @@
     <img src="assets/Icons/autostudio-icon.png" alt="Automation Studio" width="40" height="40"/>
   </a>
 </p>
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://cdn.pixabay.com/animation/2025/08/06/06/37/06-37-33-94_512.gif"  />
-</div>
 
 ###
 
