@@ -23,13 +23,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@muntasirma25019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@muntasirma25019" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/muntasir2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muntasir2003" height="30" width="40" /></a>
 <a href="https://fb.com/muntasirmamun086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muntasirmamun086" height="30" width="40" /></a>
 <a href="https://instagram.com/mamun_muntasir086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mamun_muntasir086" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@muntasirmamun-zf9ko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@MuntasirMamun-zf9ko" height="30" width="40" /></a>
 <a href="https://scholar.google.com/citations?hl=en&user=PcgTSJkAAAAJ" target="_blank" rel="noreferrer"><img align="center" src="assets/Icons/google-scholar.png" alt="Google Scholar" width="30" height="40"/></a>
 <a href="https://www.researchgate.net/profile/Muntasir-Mamun-11?ev=hdr_xprf" target="_blank" rel="noreferrer"><img align="center" src="assets/Icons/ResearchGate_icon_SVG.svg.webp" alt="ResearchGate" width="30" height="30"/></a>
+<a href="https://twitter.com/@muntasirma25019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@muntasirma25019" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@muntasirmamun-zf9ko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@MuntasirMamun-zf9ko" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -65,8 +66,8 @@
   </a>
 
   <!-- AutoCAD -->
-  <a href="https://www.autodesk.com/products/autocad/" target="_blank" rel="noreferrer">
-    <img src="assets/Icons/autocad.svg" alt="AutoCAD" width="40" height="40"/>
+  <a href="https://www.autodesk.com/solutions/electrical-design" target="_blank" rel="noreferrer">
+    <img src="assets/Icons/autodesk-autocad-electrical-product-icon.svg" alt="AutoCAD" width="40" height="40"/>
   </a>
 
   <!-- Automation Studio -->
@@ -101,7 +102,7 @@
 
 <div data-importer="stats" align="center">
 
-<h2>📊 GitHub Stats & Coding Activity</h2>
+<h2>📊GitHub Stats & Coding Activity</h2>
 
 <div align="center" style="display:flex; justify-content:center; align-items:center; gap:20px; flex-wrap:wrap;">
 
