@@ -90,6 +90,9 @@
     <img src="assets/Icons/stm32-icon-proper.png" alt="STM32" width="40" height="40"/>
   </a>
 
+  <a href="https://www.autodesk.com/br/products/eagle/overview.acessado" target="_blank" rel="noreferrer">
+    <img src="assets/Icons/eagle-icon.png" alt="EAGLE" width="40" height="40"/>
+  </a>
 </p>
 
 ###
