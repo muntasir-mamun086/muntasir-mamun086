@@ -1,5 +1,5 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=70&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
@@ -53,12 +53,12 @@
 <img width="400px" align="center" alt="GitHub Stats" src="https://github-readme-stats-ranit.vercel.app/api?username=muntasir-mamun086&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&card_width=495" />
 </picture>
 
-<h2 align="center">🔥Languages I use:</h2>
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs?username=muntasir-mamun086&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs?username=muntasir-mamun086&layout=compact&langs_count=14&size_weight=0.5&count_weight=0.5" />
-    <img align="center" alt="Top Languages" src="https://github-readme-stats-ranit.vercel.app/api/top-langs?username=muntasir-mamun086&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" />
+<h2 align="center">🔥 Language & Coding Activity</h2>
+<div width="100%" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs?username=muntasir-mamun086&layout=donut&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs?username=muntasir-mamun086&layout=donut&langs_count=14&size_weight=0.5&count_weight=0.5" />
+    <img align="center" alt="Top Languages" src="https://github-readme-stats-ranit.vercel.app/api/top-langs?username=muntasir-mamun086&layout=donut&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" />
   </picture>
 </div>
 
