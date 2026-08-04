@@ -54,7 +54,7 @@
   
   <!-- PSpice -->
   <a href="https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis/pspice.html" target="_blank" rel="noreferrer">
-    <img src="assets/Icons/pspice-logo.jpg" alt="PSpice" width="40" height="40"/>
+    <img src="assets/Icons/pspice-logo.png" alt="PSpice" width="40" height="40"/>
   </a>
   
   <!-- Multisim -->
@@ -70,7 +70,6 @@
   <a href="https://www.autodesk.com/br/products/eagle/overview.acessado" target="_blank" rel="noreferrer">
     <img src="assets/Icons/eagle-icon.webp" alt="EAGLE" width="40" height="40"/>
   </a>
-</p>
 
 <!-- KiCad -->
   <a href="https://www.kicad.org/" target="_blank" rel="noreferrer">
@@ -94,7 +93,7 @@
   <a href="https://www.famictech.com/" target="_blank" rel="noreferrer">
     <img src="assets/Icons/autostudio-icon.png" alt="Automation Studio" width="40" height="40"/>
   </a>
-
+</p>
 
 ###
 
