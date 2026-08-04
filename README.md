@@ -31,7 +31,63 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"></a><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+
+  <!-- KiCad -->
+  <a href="https://www.kicad.org/" target="_blank" rel="noreferrer">
+    <img src="assets/Icons/Kicad--Streamline-Simple-Icons.svg" alt="KiCad" width="40" height="40"/>
+  </a>
+
+  <!-- Proteus -->
+  <a href="https://www.labcenter.com/" target="_blank" rel="noreferrer">
+    <img src="assets/Icons/Proteus_Design_Suite_Atom_Logo.png" alt="Proteus" width="40" height="40"/>
+  </a>
+
+  <!-- AutoCAD -->
+  <a href="https://www.autodesk.com/products/autocad/" target="_blank" rel="noreferrer">
+    <img src="assets/Icons/autocad.svg" alt="AutoCAD" width="40" height="40"/>
+  </a>
+
+  <!-- Automation Studio -->
+  <a href="https://www.famictech.com/" target="_blank" rel="noreferrer">
+    <img src="assets/Icons/automation-studio-icon.svg" alt="Automation Studio" width="40" height="40"/>
+  </a>
+
+  <!-- Multisim -->
+  <a href="https://www.ni.com/en/products/multisim.html" target="_blank" rel="noreferrer">
+    <img src="assets/Icons/multisim.svg" alt="Multisim" width="40" height="40"/>
+  </a>
+
+  <!-- PSpice -->
+  <a href="https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis/pspice.html" target="_blank" rel="noreferrer">
+    <img src="assets/Icons/pspice-5821-0.jpg" alt="PSpice" width="40" height="40"/>
+  </a>
+
+  <!-- STM32 -->
+  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer">
+    <img src="assets/Icons/stm32-icon.png" alt="STM32" width="40" height="40"/>
+  </a>
+
+</p>
 
 ###
 
