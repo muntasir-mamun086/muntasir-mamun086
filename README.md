@@ -98,24 +98,41 @@
 ###
 
 <div data-importer="stats" align="center">
-  <h2 align="center">📊 GitHub Stats</h2>
 
-<div width="100%" align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=muntasir-mamun086&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&card_width=495" />
+<h2>📊 GitHub Stats & Coding Activity</h2>
 
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=muntasir-mamun086&show_icons=true&include_all_commits=true&count_private=true&card_width=495" />
+<div align="center" style="display:flex; justify-content:center; align-items:center; gap:20px; flex-wrap:wrap;">
 
-<img width="400px" align="center" alt="GitHub Stats" src="https://github-readme-stats-ranit.vercel.app/api?username=muntasir-mamun086&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&card_width=495" />
-</picture>
-
-<h2 align="center">🔥 Language & Coding Activity</h2>
-<div width="100%" align="center">
+  <!-- GitHub Stats -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs?username=muntasir-mamun086&layout=donut&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs?username=muntasir-mamun086&layout=donut&langs_count=14&size_weight=0.5&count_weight=0.5" />
-    <img align="center" alt="Top Languages" src="https://github-readme-stats-ranit.vercel.app/api/top-langs?username=muntasir-mamun086&layout=donut&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" />
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats-ranit.vercel.app/api?username=muntasir-mamun086&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&card_width=450" />
+
+  <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats-ranit.vercel.app/api?username=muntasir-mamun086&show_icons=true&include_all_commits=true&count_private=true&card_width=450" />
+
+  <img
+      alt="GitHub Stats"
+      height="180"
+      src="https://github-readme-stats-ranit.vercel.app/api?username=muntasir-mamun086&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&card_width=450" />
   </picture>
+
+  <!-- Language Activity -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs?username=muntasir-mamun086&layout=donut&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" />
+
+  <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs?username=muntasir-mamun086&layout=donut&langs_count=14&size_weight=0.5&count_weight=0.5" />
+
+  <img
+      alt="Top Languages"
+      height="180"
+      src="https://github-readme-stats-ranit.vercel.app/api/top-langs?username=muntasir-mamun086&layout=donut&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" />
+  </picture>
+
+</div>
+
 </div>
 
   <img src="https://raw.githubusercontent.com/muntasir-mamun086/muntasir-mamun086/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
