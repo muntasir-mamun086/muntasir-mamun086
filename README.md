@@ -77,7 +77,7 @@
 
   <!-- Multisim -->
   <a href="https://www.ni.com/en/products/multisim.html" target="_blank" rel="noreferrer">
-    <img src="assets/Icons/multisim.svg" alt="Multisim" width="40" height="40"/>
+    <img src="assets/Icons/multisim-logo.png" alt="Multisim" width="40" height="40"/>
   </a>
 
   <!-- PSpice -->
