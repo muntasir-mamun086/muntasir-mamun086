@@ -54,7 +54,7 @@
 
   <!-- KiCad -->
   <a href="https://www.kicad.org/" target="_blank" rel="noreferrer">
-    <img src="assets/Icons/Kicad--Streamline-Simple-Icons.svg" alt="KiCad" width="40" height="40"/>
+    <img src="assets/Icons/Kicad--Streamline-Simple-Icons(1).svg" alt="KiCad" width="40" height="40"/>
   </a>
 
   <!-- Proteus -->
@@ -84,7 +84,7 @@
 
   <!-- STM32 -->
   <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer">
-    <img src="assets/Icons/stm32-icon.png" alt="STM32" width="40" height="40"/>
+    <img src="assets/Icons/stm32-icon-proper.png" alt="STM32" width="40" height="40"/>
   </a>
 
 </p>
