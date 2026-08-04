@@ -57,7 +57,7 @@
 
   <!-- KiCad -->
   <a href="https://www.kicad.org/" target="_blank" rel="noreferrer">
-    <img src="assets/Icons/kicad-logo.webp" alt="KiCad" width="40" height="40"/>
+    <img src="assets/Icons/kicad-icon.webp" alt="KiCad" width="40" height="40"/>
   </a>
 
   <!-- Proteus -->
