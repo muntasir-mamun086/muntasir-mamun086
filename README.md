@@ -78,11 +78,6 @@
     <img src="assets/Icons/kicad_logo.webp" alt="KiCad" width="40" height="40"/>
   </a>
 
-<!-- AutoCAD -->
-  <a href="https://www.autodesk.com/solutions/electrical-design" target="_blank" rel="noreferrer">
-    <img src="assets/Icons/autodesk-autocad-electrical-product-icon.svg" alt="AutoCAD" width="40" height="40"/>
-  </a>
-
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
   </a>
